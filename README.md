@@ -6,3 +6,4 @@ group member: Ben Osband, Yanzhen He
 2. ask for a number 
 3. prints out the name the number of times input by the user
 
+
