@@ -12,3 +12,6 @@ group member: Ben Osband, Yanzhen He
 
 # Contributing
 Please fork the repository and make a pull request.
+
+# Code of Conduct
+When contributing, please comply with the Code of Conduct. This Code of Conduct ensures that this project is a safe space for everyone in order to benefit the overall community as a lack of enpathy to newcomers mitigates their opportunity to learn from experience.
